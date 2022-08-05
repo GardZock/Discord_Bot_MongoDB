@@ -19,7 +19,7 @@ module.exports = class extends SlashCommands {
 #### With Options
 ```js
 const { SlashCommands } = require('../../structures/SlashCommands')
-const { ChatInputCommandInteraction, ApplicationCommandOptionType } = require('discord.js')
+const { ApplicationCommandOptionType } = require('discord.js')
 
 module.exports = class extends SlashCommands {
     constructor(client) {
