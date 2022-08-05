@@ -1,8 +1,9 @@
 # Discord.JS Slash Command + MongoDB Template
 
-Hello, this is a open source bot, don't have any commands, it's a prefab to initiate a project.
-Only you need is to put the credits of author, and use the license.
-You can edit and sell the projects using this prefab.
+
+Hello, this is an open source bot, it doesn't have any commands, it's a prefab to start a project.<br>
+You just need to put the author's credits, and use the license.<br>
+You can edit and sell the designs using this prefab.
 
 
 ## How to Use
@@ -36,7 +37,6 @@ In your terminal, digit "node .", and your bot is online! (Remember to change yo
 
 ## Recommendations
 
-
 #### To Host Your Bot
 
-We recommend you use a host low ping to host your bot. Here, a good host: discloud.app (We not discloud)
+We recommend you use a host low ping to host your bot. Here, a good host: [Discloud](https://discloud.app) (We are not Discloud)
