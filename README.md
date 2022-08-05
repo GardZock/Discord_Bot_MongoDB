@@ -22,6 +22,7 @@ You can edit and sell the designs using this prefab.
 
 #### First Step
 
+You don't need to clone this repository, only you need is all files of "bot_files" dir.<br>
 Open a terminal on your IDE, and digit "npm i" or "yarn". Wait to finalize the process.
 
 #### Second Step

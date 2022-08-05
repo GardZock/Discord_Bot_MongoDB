@@ -1,0 +1,15 @@
+{
+  "name": "template_bot",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": {
+    "name": "GardZock",
+    "email": "gardzock.contato@gmail.com"
+  },
+  "dependencies": {
+    "discord.js": "^14.0.3",
+    "dotenv": "^16.0.1",
+    "mongoose": "^6.4.5"
+  }
+}
