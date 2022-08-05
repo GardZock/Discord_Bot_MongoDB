@@ -1,5 +1,8 @@
 {
   "name": "template_bot",
+  "scripts": {
+    "test": "node index.js"
+  },
   "author": {
     "name": "GardZock",
     "email": "gardzock.contato@gmail.com"
